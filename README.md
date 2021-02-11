@@ -2,15 +2,15 @@
 > This is a simple tool written in C# which fakes old commits.
 
 ## Usage
-1. Create new Github Repository
+1. Create new Github Repository<br>
 ![](1.png)
-2. Make Repository private
+2. Make Repository private<br>
 ![](2.png)
-3. Copy Repository Link
+3. Copy Repository Link<br>
 ![](3.png)
-4. Turn on private contributions
+4. Turn on private contributions<br>
 ![](4.png)
-5. Start Git Commiter.exe
+5. Start Git Commiter.exe<br>
 ![](5.png)
 
 ## Contact
