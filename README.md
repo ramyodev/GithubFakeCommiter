@@ -7,9 +7,9 @@
 2. Make Repository private<br>
 <img src="2.png" width="50%;" height="50%">
 3. Copy Repository Link<br>
-<img src="3.png" width="60%;" height="60%">
+<img src="3.png" width="60%;" height="70%">
 4. Turn on private contributions<br>
-<img src="4.png" width="50%;" height="50%">
+<img src="4.png" width="50%;" height="70%">
 5. Start Git Commiter.exe<br>
 <img src="5.png" width="30%;" height="30%">
 
