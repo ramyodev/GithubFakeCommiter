@@ -6,6 +6,7 @@
 ## Usage
 1. Create new Github Repository<br>
 <img src="1.png" width="30%;" height="30%">
+<hr>
 2. Make Repository private<br>
 <img src="2.png" width="80%;" height="80%">
 3. Copy Repository Link<br>
