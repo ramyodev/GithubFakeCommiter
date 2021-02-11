@@ -1,6 +1,6 @@
 # GithubFakeCommiter
 > This is a simple tool written in C# which fakes old commits.
-<p><center>
+<center>
 ## Usage
 1. Create new Github Repository
 ![](1.png)
