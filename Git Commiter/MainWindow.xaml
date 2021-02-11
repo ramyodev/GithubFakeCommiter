@@ -21,7 +21,7 @@
         <TextBox x:Name="Max_commits" Height="46" TextWrapping="Wrap" Text="" Width="190" FontSize="30" Margin="152,557,452,268"/>
 
         <Label x:Name="Days_Label" Content="Enter Days you &#xD;&#xA;want to go back:*" Height="85" Width="200" FontSize="30" Foreground="#FF24303C" FontFamily="Collegiate" Margin="0,0,-315,-150"/>
-        <TextBox x:Name="Days" Height="46" TextWrapping="Wrap" Text="" Width="182" FontSize="33" Margin="456,557,156,268"/>
+        <TextBox x:Name="Days" Height="46" TextWrapping="Wrap" Text="" Width="182" FontSize="30" Margin="456,557,156,268"/>
 
         <Label x:Name="File_upload_Label" Content="Upload an example File with wanted Filetype and content:*" Height="45" Width="615" FontSize="30" Foreground="#FF24303C" FontFamily="Collegiate" Margin="0,0,0,-430"/>
         <Button x:Name="File_upload" Click="open_file" Content="Choose file" FontSize="22" Height="35" Width="200" HorizontalAlignment="Center" Margin="0,0,0,-525" Background="#FF47535F" Foreground="White" BorderBrush="#FF2C3A47"/>
