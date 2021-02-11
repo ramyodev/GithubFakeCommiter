@@ -1,0 +1,15 @@
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\bin\Debug\Git Commiter.exe.config
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\bin\Debug\Git Commiter.exe
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\bin\Debug\Git Commiter.pdb
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\MainWindow.g.cs
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\App.g.cs
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter_MarkupCompile.cache
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter_MarkupCompile.lref
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\MainWindow.baml
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter.g.resources
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git_Commiter.Properties.Resources.resources
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter.csproj.GenerateResource.cache
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter.csproj.CoreCompileInputs.cache
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter.exe
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter.pdb
+E:\CodingProjects\C# Projects\GH Commiter\Git Commiter\Git Commiter\obj\Debug\Git Commiter.csprojAssemblyReference.cache

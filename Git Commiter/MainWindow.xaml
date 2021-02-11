@@ -1,0 +1,32 @@
+﻿<Window x:Class="Git_Commiter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Git_Commiter"
+        mc:Ignorable="d"
+        Title="Github Fake Commiter" Height="900" Width="800" Icon="GitHub-Mark.png" WindowStartupLocation="CenterScreen" FontSize="40" Background="#FFCAD3C8" ScrollViewer.VerticalScrollBarVisibility="Disabled" ResizeMode="NoResize">
+
+    <Grid>
+        <Label x:Name="Title" Content="Create Fake Github Commits" FontSize="55" FontFamily="Collegiate" Height="70" Width="538" HorizontalAlignment="Center" Margin="128,188,128,613"/>
+        <Image Source="GitHub-Mark.png" Width="200" Height="200" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+
+        <Label x:Name="Repo_Link_Input" Content="Enter Github Repository Link:*" Height="48" Width="325" FontSize="30" Foreground="#FF24303C" FontFamily="Collegiate" HorizontalAlignment="Center" Margin="0,0,0,290" />
+        <TextBox x:Name="Repo_Link" Height="46" Width="534" FontSize="33" Margin="0,0,0,200"/>
+
+        <Label x:Name="Folder_Name_Label" Content="Enter a Folder Name for the commit Folder:*" Height="48" Width="470" FontSize="30" Foreground="#FF24303C" FontFamily="Collegiate" HorizontalAlignment="Center" Margin="0,0,0,70"/>
+        <TextBox x:Name="Folder_Name" Height="46" TextWrapping="Wrap" Width="534" FontSize="30" Margin="0,0,0,-20"/>
+
+        <Label x:Name="Max_commits_Label" Content="Enter maximum &#xD;&#xA;commits per day:*" Height="85" Width="200" FontSize="30" Foreground="#FF24303C" FontFamily="Collegiate" Margin="0,0,295,-150"/>
+        <TextBox x:Name="Max_commits" Height="46" TextWrapping="Wrap" Text="" Width="190" FontSize="30" Margin="152,557,452,268"/>
+
+        <Label x:Name="Days_Label" Content="Enter Days you &#xD;&#xA;want to go back:*" Height="85" Width="200" FontSize="30" Foreground="#FF24303C" FontFamily="Collegiate" Margin="0,0,-315,-150"/>
+        <TextBox x:Name="Days" Height="46" TextWrapping="Wrap" Text="" Width="182" FontSize="33" Margin="456,557,156,268"/>
+
+        <Label x:Name="File_upload_Label" Content="Upload an example File with wanted Filetype and content:*" Height="45" Width="615" FontSize="30" Foreground="#FF24303C" FontFamily="Collegiate" Margin="0,0,0,-430"/>
+        <Button x:Name="File_upload" Click="open_file" Content="Choose file" FontSize="22" Height="35" Width="200" HorizontalAlignment="Center" Margin="0,0,0,-525" Background="#FF47535F" Foreground="White" BorderBrush="#FF2C3A47"/>
+
+        <Button x:Name="commit_button" Content="Start commiting" Width="322" Height="39" Click="commit_start" FontSize="25" Margin="0,0,0,-700" Foreground="White" Background="#FF47535F"/>
+    </Grid>
+
+</Window>
