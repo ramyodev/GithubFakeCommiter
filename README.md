@@ -3,7 +3,7 @@
 
 ## Usage
 1. Create new Github Repository<br>
-![](1.png =100x100)
+<img src="1.png">
 2. Make Repository private<br>
 ![](2.png =100x100)
 3. Copy Repository Link<br>
